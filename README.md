@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoctorDelacerda
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML/CSS/Java Script/BootStrap
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL/Python/HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
